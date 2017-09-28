@@ -1,0 +1,25 @@
+{
+  "name": "cordovaQcScan",
+  "version": "1.0.0",
+  "description": "cordova二维码插件",
+  "cordova": {
+    "id": "com.navinfo.cordova",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhemgshibo/cordovaQcScan.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "zhengsb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhemgshibo/cordovaQcScan/issues"
+  },
+  "homepage": "https://github.com/zhemgshibo/cordovaQcScan#readme"
+}
